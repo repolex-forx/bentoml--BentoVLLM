@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "BentoVLLM",
+  "versions": [
+    {
+      "commit": "fbad5d084c3f37dd177f4888be7e16a2d2b86c05",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:30:07.980432+00:00"
+    }
+  ]
+}
